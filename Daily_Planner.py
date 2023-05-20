@@ -1,13 +1,4 @@
-## Daily Planner 
-## This script will be automated and run daily by 7:00GMT
-## This script will help the administrator plan his day and tasks
-## It will serve as a daily journal to help the staff log his activities
-## The staff will enter in his tasks
-## Any task fulfiled should be cleared manually.
-## Any task not cleared will be carried over to the next day
-## Enjoy
-
-## SO therefore, lets cook 
+## Daily_Planner_v1
 
 import random
 import os
